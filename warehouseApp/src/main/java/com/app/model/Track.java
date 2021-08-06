@@ -8,6 +8,5 @@ public class Track {
 	
 	private String Addr;
 	
-	private Double sal;
 
 }
